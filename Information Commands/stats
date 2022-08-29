@@ -1,0 +1,7 @@
+$nomention
+$title[Here are my stats:]
+$description[
+**Servers I'm in:** $serverCount
+**Members I serv:** $allMembersCount
+**Ping:** $ping 'ms'
+**Uptime:** $uptime]
