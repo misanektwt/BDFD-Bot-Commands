@@ -1,0 +1,6 @@
+$nomention
+$onlyAdmin[]
+$title[React to Vote:]
+$description[$noMentionMessage]
+$addReactions[✔;❔;✖]
+$deletecommand
